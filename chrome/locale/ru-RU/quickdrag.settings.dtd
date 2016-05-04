@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "Настройки QuickDrag">
+<!ENTITY quickdrag.settings.loadLinkInFG "Загружать обычные и текстовые ссылки в новой активной вкладке">
+<!ENTITY quickdrag.settings.loadSearchInFG "Загружать поисковые запросы в новой активной вкладке">
+<!ENTITY quickdrag.settings.downloadImages "Использовать drag&apos;n&apos;drop для сохранения изображений">
+<!ENTITY quickdrag.settings.linkOpenOverride "Открывать ссылки вместо поиска/сохранения">

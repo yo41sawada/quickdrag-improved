@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "Paramètres de QuickDrag">
+<!ENTITY quickdrag.settings.loadLinkInFG "Ouvrir les onglets des adresses Web au premier-plan">
+<!ENTITY quickdrag.settings.loadSearchInFG "Ouvrir les onglets des recherches de texte au premier-plan">
+<!ENTITY quickdrag.settings.downloadImages "Utiliser le glisser-déposer pour télécharger des images">
+<!ENTITY quickdrag.settings.linkOpenOverride "Ouvrir les liens cliquables dans un nouvel onglet au lieu d&apos;enregistrer ou de faire une recherche">

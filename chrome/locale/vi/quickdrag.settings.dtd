@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "Thiết Lập QuickDrag">
+<!ENTITY quickdrag.settings.loadLinkInFG "Mở địa chỉ web trong thẻ tiền cảnh">
+<!ENTITY quickdrag.settings.loadSearchInFG "Mở kết quả tìm kiếm văn bản trong thẻ tiền cảnh">
+<!ENTITY quickdrag.settings.downloadImages "Sử dụng kéo và thả để tải xuống hình ảnh">
+<!ENTITY quickdrag.settings.linkOpenOverride "Mở liên kết trong thẻ mới thay vì tìm kiếm hoặc lưu lại">

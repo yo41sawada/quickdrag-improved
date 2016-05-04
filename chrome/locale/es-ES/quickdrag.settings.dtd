@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "Configuración de QuickDrag">
+<!ENTITY quickdrag.settings.loadLinkInFG "Abrir pestañas para direcciones web en primer plano">
+<!ENTITY quickdrag.settings.loadSearchInFG "Abrir pestañas para búsquedas de texto en primer plano">
+<!ENTITY quickdrag.settings.downloadImages "Utilizar arrastrar y soltar para descargar imágenes">
+<!ENTITY quickdrag.settings.linkOpenOverride "Abrir enlaces en nuevas pestañas en lugar de buscar o guardar">

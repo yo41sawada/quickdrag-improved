@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "Налаштування QuickDrag">
+<!ENTITY quickdrag.settings.loadLinkInFG "Відкривати посилання у новій активній вкладці">
+<!ENTITY quickdrag.settings.loadSearchInFG "Відкривати пошукові запити у новій активній вкладці">
+<!ENTITY quickdrag.settings.downloadImages "Дозволити перетягування зображень для їх завантаження">
+<!ENTITY quickdrag.settings.linkOpenOverride "Відкривати посилання у нових вкладках замість пошуку/збереження">

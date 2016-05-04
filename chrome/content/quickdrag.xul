@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE overlay>
+
+<overlay id="quickdragOverlay"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+	<script src="chrome://quickdrag/content/quickdrag.js" type="application/x-javascript" />
+
+</overlay>

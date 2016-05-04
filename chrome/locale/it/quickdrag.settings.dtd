@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "Opzioni di QuickDrag">
+<!ENTITY quickdrag.settings.loadLinkInFG "Carica i link testuali in schede in primo piano">
+<!ENTITY quickdrag.settings.loadSearchInFG "Carica i risultati di ricerca in schede in primo piano">
+<!ENTITY quickdrag.settings.downloadImages "Trascina le immagini per avviarne il download">
+<!ENTITY quickdrag.settings.linkOpenOverride "Carica i link in schede piuttosto di effettuare ricerche/download">

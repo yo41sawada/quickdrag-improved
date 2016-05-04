@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "QuickDrag Nastavení">
+<!ENTITY quickdrag.settings.loadLinkInFG "Otevřít webovou stránku do panelu a do popředí">
+<!ENTITY quickdrag.settings.loadSearchInFG "Otevřít hledaný text do nového panelu do popředí">
+<!ENTITY quickdrag.settings.downloadImages "Použít drag-and-drop ke stažení obrázků">
+<!ENTITY quickdrag.settings.linkOpenOverride "Otevřít kliknutelné odkazy do nového panelu místo hledání nebo uložení">

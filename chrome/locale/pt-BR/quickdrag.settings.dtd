@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "Configurações QuickDrag">
+<!ENTITY quickdrag.settings.loadLinkInFG "Abrir abas para endereço web no primeiro plano">
+<!ENTITY quickdrag.settings.loadSearchInFG "Abrir abas para pesquisa de texto no primeiro plano">
+<!ENTITY quickdrag.settings.downloadImages "Usar arrastar-e-soltar para download de imagens">
+<!ENTITY quickdrag.settings.linkOpenOverride "Abrir links em novas abas ao invés de pesquisar ou salvar">

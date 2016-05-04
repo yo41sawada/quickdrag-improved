@@ -1,0 +1,26 @@
+content	quickdrag	chrome/content/ contentaccessible=yes
+
+overlay	chrome://browser/content/browser.xul	chrome://quickdrag/content/quickdrag.xul
+overlay	chrome://navigator/content/navigator.xul	chrome://quickdrag/content/quickdrag.xul
+
+locale	quickdrag	en-US	chrome/locale/en-US/
+locale	quickdrag	cs-CZ	chrome/locale/cs-CZ/
+locale	quickdrag	da   	chrome/locale/da/
+locale	quickdrag	de   	chrome/locale/de/
+locale	quickdrag	es-ES	chrome/locale/es-ES/
+locale	quickdrag	fr   	chrome/locale/fr/
+locale	quickdrag	it   	chrome/locale/it/
+locale	quickdrag	ja-JP	chrome/locale/ja-JP/
+locale	quickdrag	ko-KR	chrome/locale/ko-KR/
+locale	quickdrag	nl   	chrome/locale/nl/
+locale	quickdrag	pl   	chrome/locale/pl/
+locale	quickdrag	pt-BR	chrome/locale/pt-BR/
+locale	quickdrag	ro-RO	chrome/locale/ro-RO/
+locale	quickdrag	ru-RU	chrome/locale/ru-RU/
+locale	quickdrag	sr   	chrome/locale/sr/
+locale	quickdrag	sv-SE	chrome/locale/sv-SE/
+locale	quickdrag	tr-TR	chrome/locale/tr-TR/
+locale	quickdrag	uk-UA	chrome/locale/uk-UA/
+locale	quickdrag	vi   	chrome/locale/vi/
+locale	quickdrag	zh-CN	chrome/locale/zh-CN/
+locale	quickdrag	zh-TW	chrome/locale/zh-TW/

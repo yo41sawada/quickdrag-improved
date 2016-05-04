@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "퀵드래그 설정">
+<!ENTITY quickdrag.settings.loadLinkInFG "선택한 웹 주소를 활성화된 탭으로 열기">
+<!ENTITY quickdrag.settings.loadSearchInFG "선택한 텍스트를 활성화된 탭으로 검색하기">
+<!ENTITY quickdrag.settings.downloadImages "끌어다 놓기로 그림을 다른 이름으로 저장하기">
+<!ENTITY quickdrag.settings.linkOpenOverride "클릭할 수 있는 링크를 검색하거나 저장하지 않고 새 탭으로 열기">

@@ -1,0 +1,247 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 13LiL8on6vuaiStegOlqAA==
+SHA1-Digest: J47fJIyLo+s2/09ibNBRUtscYXc=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YbCTTamx6li3CRw848Q39A==
+SHA1-Digest: o6wYq4SaYPcA1oc7vllAsd2zJAk=
+
+Name: chrome/content/pluginnetwork.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EfM2Dcu74v0/OdUIhkP//g==
+SHA1-Digest: v1W1bq5BoXVjVoRZ2ny8mOYdPIE=
+
+Name: chrome/content/quickdrag.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vtj22aGi8lHbuN2v4Y/ASg==
+SHA1-Digest: Ka8zR7dQtOWMcAjkbXHK2+okScA=
+
+Name: chrome/content/quickdrag.settings.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oi/I+uQ7DW1F4a9sC8kOJg==
+SHA1-Digest: rpC0mRWy+JoHfdtdXw/MogqAQt8=
+
+Name: chrome/content/quickdrag.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A+H0OBx4vEVnZJ4617NWqw==
+SHA1-Digest: 5LzqdPsTymhLDc58UlPlPZtMf4I=
+
+Name: chrome/locale/cs-CZ/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IJI2LYefHQoX9oXVWjGv/Q==
+SHA1-Digest: XO7FggoQEp0NTymqjKOUpVoJryU=
+
+Name: chrome/locale/cs-CZ/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rYzhL4yUXieuBR/X9tOV+Q==
+SHA1-Digest: Voo1kekv0BTc/g0WVGfvjSJV6ik=
+
+Name: chrome/locale/da/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3xZu58pdCN+Q46tf1qYUWQ==
+SHA1-Digest: FCBOV5MdZnrG+OW0lq9q8LVsGSk=
+
+Name: chrome/locale/da/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ot8FCn0TrxG48LCjVlpwEg==
+SHA1-Digest: hk59tdKZCpHdiF5YtJ8PE0juO3A=
+
+Name: chrome/locale/de/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8wT9FEX9JTDaysxCeHNSTw==
+SHA1-Digest: Vz617lFUrf/vynq5xpSL48QOQYk=
+
+Name: chrome/locale/de/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JntPeeWJM9k96wcow4Yf+g==
+SHA1-Digest: qSU4UPANyjGtz3IvwoWBzcOwGw0=
+
+Name: chrome/locale/en-US/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EBd2BSAabkxjyJE2lAj8Gw==
+SHA1-Digest: ryOhzlP9yNJJnHB6of4lc0uo8XE=
+
+Name: chrome/locale/en-US/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VazDLjI21K2E/EI+mpIwIg==
+SHA1-Digest: 5FdfEMOJQPUs8dgmk5/4RYxqylI=
+
+Name: chrome/locale/es-ES/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ru49EAIuWRRTqvuR1hhDwQ==
+SHA1-Digest: 56XkTwfJwg14TFngyyBfd6CvT1g=
+
+Name: chrome/locale/es-ES/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cVvCMwfPeeeWT4uVPcvRrA==
+SHA1-Digest: 8vWq1sbuUftZl9sGNCEfrZ05gDo=
+
+Name: chrome/locale/fr/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +BBWA8s/7q4kIuspWeF0TQ==
+SHA1-Digest: aAXDolM1nhME1SlxpjLaQ/T0F7M=
+
+Name: chrome/locale/fr/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BWK5p+i+rUPHwVmaHi23Hg==
+SHA1-Digest: Sow5Ixizv+5jSbwltJ0Qdsr05n0=
+
+Name: chrome/locale/it/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CPUc8rbK4yeBPOBG/XAxpQ==
+SHA1-Digest: r/hx97Bvxq/FBpSrjeFnOgXW6d4=
+
+Name: chrome/locale/it/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Jhj432M6zjMoT0RQVB3p9w==
+SHA1-Digest: 39uAvECRLt6uCOWZ47pCq+kvlk8=
+
+Name: chrome/locale/ja-JP/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Jby1izkFWoNHfJMwhMzjFw==
+SHA1-Digest: jP37j/LJwvYwEGzXQe9BZIwBEcg=
+
+Name: chrome/locale/ja-JP/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fRJOeZyVu2orN9WJC0W3rQ==
+SHA1-Digest: ros+GwTrUEm2pPX+E5Qi80y/TY8=
+
+Name: chrome/locale/ko-KR/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QsTzRf0jpZYUVnqNzTSEug==
+SHA1-Digest: mL6gH6jhhjAkQhk2aykJHaf+XYE=
+
+Name: chrome/locale/ko-KR/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WA5bmQr7oVDRtDKX9XqA6w==
+SHA1-Digest: RW3/XmhKvWdnoqJOEF2Lx48/1Ng=
+
+Name: chrome/locale/nl/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QqN8gU8+388hQOZ/ksQvNQ==
+SHA1-Digest: 3FqCM4PwgMS6TRGELm1tiK+ThMg=
+
+Name: chrome/locale/nl/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DQ93mc4eNpiC8AJJePNwVQ==
+SHA1-Digest: 6PgT2LzdvevyEgqhXOE2eqblUgA=
+
+Name: chrome/locale/pl/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dToflq/6ovsvATtE7ym9Dw==
+SHA1-Digest: ZxURdCM6Wrhjzr418bjAr4eZN9c=
+
+Name: chrome/locale/pl/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YlEkYb6mfxj0dRudBJfUJQ==
+SHA1-Digest: 9QhIZKWVvPreKhBEgRG4wzmFX5E=
+
+Name: chrome/locale/pt-BR/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vaFcSAqOTfzQoTeLgVK+sw==
+SHA1-Digest: koiNdoUWjnQv1POqzj+klw0lGXw=
+
+Name: chrome/locale/pt-BR/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZIFdBTeo3rjefkZ2p44nNg==
+SHA1-Digest: 0TJHqwl0Xm+UCCVPQXC4VZIi2C4=
+
+Name: chrome/locale/ro-RO/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DBPo+nyKuPFQM9YiULoeRg==
+SHA1-Digest: bbkswIl6JO8JHvwOb7JLal2feVc=
+
+Name: chrome/locale/ro-RO/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rasiFHNLRKtuGrlX5WNfzQ==
+SHA1-Digest: +lvwLkBgNRzwM5F8cheTTyZxyKc=
+
+Name: chrome/locale/ru-RU/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jKwT/WiGIDuFDXeB2LJf4A==
+SHA1-Digest: 8L//yXtFy1ZEsNxsm3Rq2Tf1Uxc=
+
+Name: chrome/locale/ru-RU/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: V1Tqpmy13xcbaeB4GuQk5Q==
+SHA1-Digest: m4QCVxGXYzfi8itIH7V+krf0pf8=
+
+Name: chrome/locale/sr/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ruF71d70hHIVDJphtQlB5A==
+SHA1-Digest: NHNkKsXPPWyKjrjyI9vs7yPPWqM=
+
+Name: chrome/locale/sr/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rdGxpdYaDX/DbQUUNCwamA==
+SHA1-Digest: u7dVjXIfhD4TbjuoPXa24QFa5JI=
+
+Name: chrome/locale/sv-SE/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Q8YYz3tWaWyN0OFKAXiALQ==
+SHA1-Digest: LW3h9Ur08VfsI9aebCqv5wCe8gA=
+
+Name: chrome/locale/sv-SE/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e3Y8as7F3k72oZruZxJz2g==
+SHA1-Digest: qBpU8Ejpq6zquIFFU+FNeqcB5KE=
+
+Name: chrome/locale/tr-TR/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z6LMPcsVo54DOlCtSraI2A==
+SHA1-Digest: 6PRRCLW9dy/8wCwQG/hAjdGqyfk=
+
+Name: chrome/locale/tr-TR/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yxIzPOk5AegDN6EQtOKrGQ==
+SHA1-Digest: SfrMcoQly2t3kSi5XTwHboSpgHw=
+
+Name: chrome/locale/uk-UA/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mBH3Cxe4LqiKc1S9EXNnZw==
+SHA1-Digest: iW1TaQEqBH/lA8RYq4kj6hyRGOg=
+
+Name: chrome/locale/uk-UA/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LcbJxx5hHlfMONXlLBMqjw==
+SHA1-Digest: g3V7p8SsSduhXavLHfwZiNe1FjI=
+
+Name: chrome/locale/vi/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6cUmY1lu7ee+DeJbPdrK+g==
+SHA1-Digest: jsN//EK+d+g4wXeYNkCfqlw00cU=
+
+Name: chrome/locale/vi/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3jXczwo3A+bOebFhiNAZoA==
+SHA1-Digest: ZLimDoCzW8UIE4aiwZAvdDl5gFY=
+
+Name: chrome/locale/zh-CN/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SgAbXtuPM6XqzXffIAjdtw==
+SHA1-Digest: u2Z5EkLH/wnZHGBez9JQttliW2Y=
+
+Name: chrome/locale/zh-CN/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xhDWN+fBenr6op7vNyxJ2Q==
+SHA1-Digest: 9Zkk9g2W8yht9G8EtkC7f3qEQ48=
+
+Name: chrome/locale/zh-TW/quickdrag.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8bMzXyXWjtl5CNe4QfU/9Q==
+SHA1-Digest: RWNuFLwn9Ztl8YwTUssvo2kkJVY=
+
+Name: chrome/locale/zh-TW/quickdrag.settings.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: St/0+hZJvJvRT79Uh6A51A==
+SHA1-Digest: OGAzpu7dtXqQ7Ict8lYyCeqDWBI=
+
+Name: defaults/preferences/quickdrag.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PXTWgli7poXFv3FU69l2Kw==
+SHA1-Digest: 4KM5NhYI7CzDmJLTbyG90h9VP3o=
+

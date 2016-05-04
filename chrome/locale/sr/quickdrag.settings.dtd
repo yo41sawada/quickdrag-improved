@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "Подешавања БрзогПревлачења">
+<!ENTITY quickdrag.settings.loadLinkInFG "Отвори језичке за адресе у позадини">
+<!ENTITY quickdrag.settings.loadSearchInFG "Отвори језичке за претраге текста у позадини">
+<!ENTITY quickdrag.settings.downloadImages "Користи „превлачење-и-спуштање” за чување слика">
+<!ENTITY quickdrag.settings.linkOpenOverride "Отвори везе у новим језичцима, уместо претраживања или чувања">

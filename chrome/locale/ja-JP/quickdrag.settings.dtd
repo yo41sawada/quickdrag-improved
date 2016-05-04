@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "QuickDrag 設定">
+<!ENTITY quickdrag.settings.loadLinkInFG "Webアドレスをフォアグラウンドタブで開く">
+<!ENTITY quickdrag.settings.loadSearchInFG "検索結果をフォアグラウンドタブで開く">
+<!ENTITY quickdrag.settings.downloadImages "ドラッグ＆ドロップで画像を保存する">
+<!ENTITY quickdrag.settings.linkOpenOverride "リンクを検索・保存する代わりに新しいタブで開く">

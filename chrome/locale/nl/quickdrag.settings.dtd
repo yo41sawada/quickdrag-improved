@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "QuickDrag-instellingen">
+<!ENTITY quickdrag.settings.loadLinkInFG "Tabbladen voor internetadressen in de voorgrond openen">
+<!ENTITY quickdrag.settings.loadSearchInFG "Tabbladen voor zoekopdrachten in de voorgrond openen">
+<!ENTITY quickdrag.settings.downloadImages "Drag-and-drop gebruiken voor het downloaden van afbeeldingen">
+<!ENTITY quickdrag.settings.linkOpenOverride "Klikbare koppelingen in nieuwe tabbladen openen in plaats van zoeken of opslaan">

@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "QuickDrag Settings">
+<!ENTITY quickdrag.settings.loadLinkInFG "Open tabs for web addresses in the foreground">
+<!ENTITY quickdrag.settings.loadSearchInFG "Open tabs for text searches in the foreground">
+<!ENTITY quickdrag.settings.downloadImages "Use drag-and-drop to download images">
+<!ENTITY quickdrag.settings.linkOpenOverride "Open clickable links in new tabs instead of searching or saving">

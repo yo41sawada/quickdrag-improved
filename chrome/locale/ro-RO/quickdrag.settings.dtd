@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "Configurare QuickDrag">
+<!ENTITY quickdrag.settings.loadLinkInFG "Deschide filele pentru adrese web în prim-plan">
+<!ENTITY quickdrag.settings.loadSearchInFG "Deschide filele pentru pentru căutări în prim-plan">
+<!ENTITY quickdrag.settings.downloadImages "Foloseşte tragerea-şi-plasarea pentru a descărca imagini">
+<!ENTITY quickdrag.settings.linkOpenOverride "Deschide legăturile în file noi în loc de a căuta sau salva">

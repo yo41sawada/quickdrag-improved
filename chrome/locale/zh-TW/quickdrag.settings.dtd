@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "QuickDrag 設定">
+<!ENTITY quickdrag.settings.loadLinkInFG "用新分頁開啟鏈結後自動切換至該分頁">
+<!ENTITY quickdrag.settings.loadSearchInFG "用新分頁開啟搜尋後自動切換至該分頁">
+<!ENTITY quickdrag.settings.downloadImages "使用滑鼠拖放下載圖片">
+<!ENTITY quickdrag.settings.linkOpenOverride "將有鏈結的文字開啟於新分頁，而非搜尋或儲存">

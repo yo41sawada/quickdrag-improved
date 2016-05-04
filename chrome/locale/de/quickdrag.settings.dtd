@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "QuickDrag Einstellungen">
+<!ENTITY quickdrag.settings.loadLinkInFG "Tabs für Webadressen im Vordergrund öffnen">
+<!ENTITY quickdrag.settings.loadSearchInFG "Tabs zur Textsuche im Vordergrund öffnen">
+<!ENTITY quickdrag.settings.downloadImages "Drag-and-Drop verwenden, um Bilder herunter zu laden">
+<!ENTITY quickdrag.settings.linkOpenOverride "Links in neuem Tab öffnen, statt sie zu durchsuchen oder zu speichern">

@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "Inställningar för QuickDrag">
+<!ENTITY quickdrag.settings.loadLinkInFG "Öppna flikar för webbadresser i förgrunden">
+<!ENTITY quickdrag.settings.loadSearchInFG "Öppna flikar för textsökningar i förgrunden">
+<!ENTITY quickdrag.settings.downloadImages "Använd dra-och-släpp för att ladda ner bilder">
+<!ENTITY quickdrag.settings.linkOpenOverride "Öppna klickbara länkar i nya flikar istället för att söka eller spara">

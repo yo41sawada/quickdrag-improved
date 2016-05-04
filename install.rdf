@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>{60540AE8-1137-11E6-BAFD-0D40D9BD42DF}</em:id>
+		<em:version>1.0</em:version>
+		<em:updateURL>blog.yo41sawada.jp/portfolio/quickdrag-improved</em:updateURL>
+		<em:updateKey>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/SXajcSgcwQHon0VJrk/tpWigIV/fVKCQeCdoI/Hck2Ze48uhO1R3FeR8m7IrlXkvWg82uAOHKLaC+yzyi4tMGGg7kbIfLlogdLtB9jaf7iBknmOpc2x/73Gfb5Yv8c5Bu1KYxRctLIAtrCwYLIdBJhbYyjU+1m+y95wMBF61XQIDAQAB</em:updateKey>
+		<em:type>2</em:type>
+		<em:unpack>false</em:unpack>
+
+		<!-- Target Application(s) -->
+		<em:targetApplication>
+			<Description>
+				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+				<em:minVersion>2.0a1</em:minVersion>
+				<em:maxVersion>46.*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+
+		<!-- Front End Integration Hooks -->
+		<em:optionsURL>chrome://quickdrag/content/quickdrag.settings.xul</em:optionsURL>
+
+		<!-- Front End MetaData -->
+		<em:name>QuickDragImproved</em:name>
+		<em:description>Extends the function of the drag-and-drop mouse gesture so that it can be used to load URLs, do a web search of selected text on a page, or save an image on a page.</em:description>
+		<em:creator>yo41sawada</em:creator>
+		<em:translator>cs-CZ: Sam</em:translator>
+		<em:translator>da: Wodak</em:translator>
+		<em:translator>de: erglo</em:translator>
+		<em:translator>es-ES: Omi</em:translator>
+		<em:translator>fr: nico@nc</em:translator>
+		<em:translator>it: Luana Di Muzio</em:translator>
+		<em:translator>ja-JP: jtinside</em:translator>
+		<em:translator>ko-KR: huniminik (Kim, Hunmin)</em:translator>
+		<em:translator>nl: Gert-Paul</em:translator>
+		<em:translator>pl: Leszek (teo) Życzkowski</em:translator>
+		<em:translator>pt-BR: Humberto Sartini</em:translator>
+		<em:translator>ro-RO: Cătălin Zamfirescu (x10firefox)</em:translator>
+		<em:translator>ru-RU: Merlyel</em:translator>
+		<em:translator>sr: Касперски</em:translator>
+		<em:translator>sv-SE: Mikael Hiort af Ornäs</em:translator>
+		<em:translator>tr-TR: H. Ateş</em:translator>
+		<em:translator>uk-UA: Володимир Савчук</em:translator>
+		<em:translator>vi: Nguyễn Mạnh Hùng</em:translator>
+		<em:translator>zh-CN: xmoke</em:translator>
+		<em:translator>zh-TW: bootleq</em:translator>
+		<em:contributor>Super DragAndGo by morphis (inspiration for QuickDrag)</em:contributor>
+		<em:homepageURL>http://quickdrag.com</em:homepageURL>
+	</Description>
+
+</RDF>

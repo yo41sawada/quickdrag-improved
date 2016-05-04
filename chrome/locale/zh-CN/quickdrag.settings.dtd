@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "QuickDrag 选项">
+<!ENTITY quickdrag.settings.loadLinkInFG "在前台标签页中打开链接">
+<!ENTITY quickdrag.settings.loadSearchInFG "在前台标签页中搜索">
+<!ENTITY quickdrag.settings.downloadImages "启用鼠标拖拽下载图片">
+<!ENTITY quickdrag.settings.linkOpenOverride "在新建标签页中打开可点击链接 (取代搜索或保存它)">

@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "QuickDrag - ustawienia">
+<!ENTITY quickdrag.settings.loadLinkInFG "Otwieraj adresy URL w nowej karcie w tle">
+<!ENTITY quickdrag.settings.loadSearchInFG "Otwieraj wyniki wyszukiwania w nowej karcie w tle">
+<!ENTITY quickdrag.settings.downloadImages "Użyj funkcji „przeciągnij i upuść” do pobierania obrazków">
+<!ENTITY quickdrag.settings.linkOpenOverride "Otwieraj odnośniki w nowych kartach zamiast wyszukiwania, czy zapisywania">

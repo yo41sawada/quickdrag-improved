@@ -1,0 +1,5 @@
+<!ENTITY quickdrag.settings.title "QuickDrag Ayarları">
+<!ENTITY quickdrag.settings.loadLinkInFG "Web adresleri için sekmeleri önplanda aç">
+<!ENTITY quickdrag.settings.loadSearchInFG "Metin aramaları için sekmeleri önplanda aç">
+<!ENTITY quickdrag.settings.downloadImages "Resimleri indirmek için sürükle-bırak kullan">
+<!ENTITY quickdrag.settings.linkOpenOverride "Tıklanabilir linkleri aramak veya kaydetmek yerine yeni sekmelerde aç">
