@@ -8,6 +8,7 @@ about:configにて
 xpinstall.signatures.required
 ```
 をfalseに変更してください。
+
 リポジトリトップにあるquickdrag-improved.xpiをFirefoxのD&Dしてください。
 
 # Usage
